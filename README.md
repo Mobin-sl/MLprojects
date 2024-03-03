@@ -19,3 +19,5 @@ A really simple clustering for Mall customers :
 <h2>Drug Classification</h2>
 multi classification for drug dataset : 
 <a href=Classification_drug.ipynb>Classification_drug.ipynb</a>
+
+I will ipload my others projects here soon...
